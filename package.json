@@ -1,6 +1,6 @@
 {
   "author": "Sherouk Omara",
-  "name": "Archive Discover Weekly Playlist",
+  "name": "archive_discover_weekly_playlist",
   "description": "Copies new songs from Discover Weekly playlist to a second playlist",
   "version": "1.0.0",
   "dependencies": {
